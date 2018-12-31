@@ -5,6 +5,7 @@ What does this Project Do?
 Homework for week 10.
 The assignment required use of several node libraries as well as several different api.
 The node application "liri.js" is prompt driven using the node inquirer package and takes in these commands:
+    
     1. `concert-this`
         This will show information of the keywords the user inputed giving concert locations/information
 
@@ -22,10 +23,10 @@ This assignment used various node.js methods, performing api calls, json parsing
 
 How to use the project -
 
-Begin: user will type "node liri.js" in Terminal
-Next: user will input one of:
+    1. Begin: user will type "node liri.js" in Terminal
+    Next: user will input one of:
 
-concert-this - user must input a performing artist to search concert offerings and confirm the selection.
-spotify-this-song - user must provide a song title to search for and confirm the selection.
-movie-this - user must provide the title of a movie to search for and confirm the selection.
-do-what-it-says - once selected, the remaining prompts are ignored (with the exception of the confirmation prompt).
+    concert-this - user must input a performing artist to search concert offerings and confirm the selection.
+    spotify-this-song - user must provide a song title to search for and confirm the selection.
+    movie-this - user must provide the title of a movie to search for and confirm the selection.
+    do-what-it-says - once selected, the remaining prompts are ignored (with the exception of the confirmation prompt).
